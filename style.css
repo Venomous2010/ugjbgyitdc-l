@@ -1,0 +1,14 @@
+.line{
+    width: 1000px;;
+    height: 2px;
+    color: black;
+}
+
+body{
+    background-color: red;
+}
+
+.copy_right_footer{
+    font-family: 'Grey Qo', cursive;
+    font-size:  25px;
+}
